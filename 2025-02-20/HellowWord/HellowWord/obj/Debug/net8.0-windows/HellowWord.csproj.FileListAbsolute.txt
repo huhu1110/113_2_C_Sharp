@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.Form1.resources
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.sourcelink.json
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\bin\Debug\net8.0-windows\HellowWord.exe
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\bin\Debug\net8.0-windows\HellowWord.deps.json
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\bin\Debug\net8.0-windows\HellowWord.runtimeconfig.json
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\bin\Debug\net8.0-windows\HellowWord.dll
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\bin\Debug\net8.0-windows\HellowWord.pdb
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.dll
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\refint\HellowWord.dll
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.pdb
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\HellowWord.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_2_C_Sharp\2025-02-20\HellowWord\HellowWord\obj\Debug\net8.0-windows\ref\HellowWord.dll
